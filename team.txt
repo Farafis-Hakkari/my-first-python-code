@@ -1,2 +1,3 @@
-Leader : Hakki
-Staf   : 
+Leader : Ahmad Farafis Hakkari
+staf   : marjuki
+Done
